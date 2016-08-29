@@ -18,27 +18,46 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  
+  Herddit
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
 
+  A song sharing and rating application made for the music lovers.
+
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+
+  Herddit is a platform where users can share songs they like with friends and the rest of the Herddit community. The community can upvote or downvote each submission. The songs will be listed in order of popularity, created date, and genre.
 
 ## Problem ##
   > Describe the problem your product solves.
 
+  New artists have a problem promoting their new songs.
+
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+
+  Herddit allows fans and artists to post their favorite songs and expose them to the Herddit community for rating and general exposure.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
 
+  "We play it, you rate it."
+
 ## How to Get Started ##
   > Describe how easy it is to get started.
+
+  It's very easy to get started! You don't even need an account!
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
+  "I had never heard of Mouse Rat before but now I'm their biggest fan. Thanks Herddit!" -SomeGirl, 22, Cali 
+
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+
+  So what are you waiting for?! Go to our main page and start hearing, rating, and sharing!
+
